@@ -1,0 +1,9 @@
+data/
+images/*
+!images/.gitkeep
+
+.env
+.env.*
+!.env.example
+*.log
+*.pid
